@@ -1,2 +1,3 @@
-# uchicago-cs-git-tutorial Miguel Orellana Jr morellana
+Miguel Orellana Jr morellana
 UChicago CS Git Tutorial
+Git is pretty cool
